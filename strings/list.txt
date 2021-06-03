@@ -1,8 +1,0 @@
-charAt
-concat
-indexOf
-repeat
-search
-split
-toLowerCase
-trim
